@@ -781,7 +781,7 @@ Aktif Karbonhidratın ne kadar hızlı sindirildiğine ve KŞ\'nin beklenenden d
     <string name="status_updated">Durum Güncellendi</string>
     <string name="ago">önce</string>
     <string name="with">ile</string>
-    <string name="insight_active_tbr">Etkin TBR (GBO) Geçici Bazal Oranı</string>
+    <string name="insight_active_tbr">Etkin (TBR) Geçici Bazal Oranı</string>
     <string name="insight_min_left">min kalan</string>
     <string name="log_book">Kayıt defteri</string>
     <string name="insight_last_completed_action">Son Tamamlanan Eylem</string>
