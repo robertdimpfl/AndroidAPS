@@ -245,7 +245,7 @@
     <string name="danar_iob_label">IOB(Aktif insülin) pompa</string>
     <string name="danar_dailyunits">Günlük birimleri</string>
     <string name="pump_lastbolus_label">Son bolus</string>
-    <string name="hoursago">%.1fh önce</string>
+    <string name="hoursago">%.1fs önce</string>
     <string name="danar_invalidinput">Geçersiz bilgi girişi</string>
     <string name="danar_valuenotsetproperly">Değer düzgün ayarlanmamış</string>
     <string name="reloadprofile">Dosyayı yeniden yükle</string>
@@ -868,7 +868,7 @@ Aktif Karbonhidratın ne kadar hızlı sindirildiğine ve KŞ\'nin beklenenden d
     <string name="closed_loop_disabled_on_dev_branch">Dev sürümü çalışıyor. Kapalı Döngü devre dışı.</string>
     <string name="engineering_mode_enabled">Geliştirici modu aktivleşti</string>
     <string name="not_eng_mode_or_release">Engineering mode etkin değil ve yayım sürümü değil</string>
-    <string name="pump_basebasalrate">%.2f U/h</string>
+    <string name="pump_basebasalrate">%.2f Ü/s</string>
     <string name="combo_actvity_reading_basal_profile">Bazal oranı profili okunuyor</string>
     <string name="combo_bolus_rejected_due_to_pump_history_change">Bolus hesaplaması yapıldıktan sonra pompa geçmişi değişti. Bolus teslim edilmedi. Bir bolus hala gerekli ise lütfen yeniden hesaplayın.</string>
     <string name="combo_error_updating_treatment_record">Bolus başarıyla gönderildi, ancak tedavi girişinin eklenmesi başarısız oldu. Son iki dakika içinde aynı boyutta iki küçük bolüs verilirse bu durum meydana gelebilir. Lütfen pompa geçmişini ve tedavi girişlerini kontrol edin ve eksik girişler eklemek için Careportal\'ı kullanın. Aynı dakika ve aynı tutar için herhangi bir giriş eklemediğinizden emin olun.</string>
