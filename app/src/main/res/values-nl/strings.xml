@@ -558,6 +558,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="danar_bluetooth_status">Bluetooh status</string>
     <string name="nav_about">Over</string>
     <string name="smscommunicator_missingsmspermission">Geen SMS bevoegdheid</string>
+    <string name="smscommunicator_missingphonestatepermission">Machtiging ontbreekt voor telefoon gebruik</string>
     <string name="xdripstatus_settings">xDrip Status (Horloge)</string>
     <string name="xdripstatus">xDrip Statuslijn (Horloge)</string>
     <string name="xdripstatus_shortname">xds</string>
@@ -817,7 +818,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="automatically_connect_when">Automatische verbinden wanneer AndroidAPS scherm geopend wordt, voordat er een pomp commando wordt uitgevoerd om zo de verbindingsvertraging te verkleinen</string>
     <string name="not_recommended_due_to_battery_drain">Niet aanbevolen door hoog batterij verbruik</string>
     <string name="enablesmbalways">Activeer SMB altijd</string>
-    <string name="enablesmbalways_summary">SMB altijd onafhankelijk van bolussen. Enkel mogelijk met een BG bron met goed gefilterde data zoals de G5</string>
+    <string name="enablesmbalways_summary">SMB altijd aan onafhankelijk van bolussen. Enkel mogelijk met een BG bron met goed gefilterde data zoals de G5</string>
     <string name="enablesmbaftercarbs">Activeer SMB na koolhydraten</string>
     <string name="enablesmbaftercarbs_summary">SMB actief gedurende 6u, zelfs met 0 COB. Enkel mogelijk met een BG bron met goed gefilterde data zoals de G5</string>
     <string name="enablesmbwithcob">Activeer SMB met Koolhydraten</string>
