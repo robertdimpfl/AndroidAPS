@@ -823,9 +823,9 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="enablesmbaftercarbs_summary">SMB actief gedurende 6u, zelfs met 0 COB. Enkel mogelijk met een BG bron met goed gefilterde data zoals de G5</string>
     <string name="enablesmbwithcob">Activeer SMB met Koolhydraten</string>
     <string name="enablesmbwithcob_summary">SMB actief tijdens actieve koolhydraten</string>
-    <string name="enablesmbwithtemptarget">Gebruik SMB met tijdelijke doelen</string>
-    <string name="enablesmbwithtemptarget_summary">Gebruik SMB bij een actief tijdelijk basaal (binnenkort eten, inspanningen)</string>
-    <string name="enablesmbwithhightemptarget">Gebruik SMB met een hoog tijdelijk doel</string>
+    <string name="enablesmbwithtemptarget">Gebruik SMB met tijdelijke streefdoelen</string>
+    <string name="enablesmbwithtemptarget_summary">Gebruik SMB bij een actief tijdelijk streefdoel (eet binnenkort, activiteit)</string>
+    <string name="enablesmbwithhightemptarget">Gebruik SMB met een hoog tijdelijk streefdoel</string>
     <string name="enablesmbwithhightemptarget_summary">Gebruik SMB tijdens een verhoogd tijdelijk doel (Inspanningen)</string>
     <string name="let_temp_basal_run">Laat tijdelijk basaal lopen</string>
     <string name="mute">Geluid dempen</string>
