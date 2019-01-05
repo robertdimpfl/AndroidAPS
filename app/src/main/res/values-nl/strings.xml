@@ -952,7 +952,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="openapsama_autosens_min">Min autosens factor</string>
     <string name="openapsama_bolussnooze_dia_divisor">Bolus snooze dia deler</string>
     <string name="openapsama_max_daily_safety_multiplier">Maximale dagelijkse veiligheids vermeningvuldigings factor</string>
-    <string name="openapsama_current_basal_safety_multiplier">Actuele veiliheids verhoger van basaal</string>
+    <string name="openapsama_current_basal_safety_multiplier">Huidige basaalstand veiligheids vermenigvuldigings factor</string>
     <string name="value_unavailable_short">n/a</string>
     <string name="virtualpump_type">Virtuele pomp Type</string>
     <string name="virtualpump_definition">Pomp definitie</string>
@@ -1014,9 +1014,9 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="nth_objective">%1$d. Doel</string>
     <string name="poctech">Poctech</string>
     <string name="description_source_poctech">Ontvang BG waardes van Poctech app</string>
-    <string name="high_temptarget_raises_sensitivity_title">Hoge temptarget verhoogt de gevoeligheid</string>
+    <string name="high_temptarget_raises_sensitivity_title">Hoog tijdelijk streefdoel verhoogt gevoeligheid</string>
     <string name="high_temptarget_raises_sensitivity_summary"><![CDATA[Verhogen van de gevoeligheid voor temptargets > = 100]]></string>
-    <string name="low_temptarget_lowers_sensitivity_title">Lage temptarget verlaagt de gevoeligheid</string>
+    <string name="low_temptarget_lowers_sensitivity_title">Laag tijdelijk streefdoel verlaagt gevoeligheid</string>
     <string name="low_temptarget_lowers_sensitivity_summary"><![CDATA[Lagere gevoeligheid voor temptargets < 100]]></string>
     <string name="combo_invalid_setup">Ongeldige pompinstellingen, controleer de documenten en controleer of het Quick Info-menu QUICK INFO wordt genoemd met behulp van de 360-configuratiesoftware.</string>
     <string name="custom">Aangepast</string>
