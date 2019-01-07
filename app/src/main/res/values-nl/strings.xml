@@ -293,7 +293,7 @@
     <string name="danar_sbolus">S Bolus</string>
     <string name="danar_history_alarm">Alarm</string>
     <string name="danar_history_basalhours">Basale uren</string>
-    <string name="danar_history_bolus">Bulossen</string>
+    <string name="danar_history_bolus">Bolussen</string>
     <string name="danar_history_carbohydrates">Koolhydraten</string>
     <string name="danar_history_dailyinsulin">Dagtotaal insuline</string>
     <string name="danar_history_errors">Storing</string>
@@ -404,7 +404,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="sms_minago">%1$dmin geleden</string>
     <string name="localprofile">Lokaal profiel</string>
     <string name="openapsama">OpenAPS AMA</string>
-    <string name="short_avgdelta">Klein gemiddeld verschil</string>
+    <string name="short_avgdelta">Korte gemiddeld verschil</string>
     <string name="long_avgdelta">Groot gemiddeld verschil</string>
     <string name="array_of_elements">Array van %1$d elementen. \nActuele waarde:</string>
     <string name="openapsma_autosensdata_label">Autosens gegevens</string>
@@ -447,7 +447,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="wear_shortname">WEAR</string>
     <string name="smscommunicator_shortname">SMS</string>
     <string name="short_tabtitles">Afgekorte tab titels</string>
-    <string name="always_use_shortavg">Gebruik altijd kleine gemiddelde verschillen ipv gewone verschillen</string>
+    <string name="always_use_shortavg">Gebruik altijd korte gemiddeld verschil ipv gewone verschil</string>
     <string name="always_use_shortavg_summary">Nuttig wanneer gegevens van niet gedempte bronnen zoals Xdrip noisy zijn.</string>
     <string name="advancedsettings_title">Geavanceerde instellingen</string>
     <string name="danar_model">Model: %1$02X Protokoll: %2$02X Code: %3$02X</string>
