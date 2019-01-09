@@ -532,6 +532,7 @@
     <string name="disconnectpumpfor2h">Desligar bomba por 2 h</string>
     <string name="disconnectpumpfor3h">Desligar bomba por 3 h</string>
     <string name="resume">Retomar</string>
+    <string name="reconnect">Re-ligar a Bomba</string>
     <string name="smscommunicator_wrongduration">Duração errada</string>
     <string name="smscommunicator_loopsuspended">Loop suspenso</string>
     <string name="smscommunicator_loopresumed">Loop retomado</string>
@@ -888,6 +889,8 @@
     <string name="closedmodedisabledinpreferences">Loop fecchado disabilitado nas preferências</string>
     <string name="autosensdisabledinpreferences">Autosens desabilitado nas preferências</string>
     <string name="smbdisabledinpreferences">SMB desactivado nas configurações</string>
+    <string name="uamdisabledinpreferences">UAM desactivado nas configurações</string>
+    <string name="uamdisabledoref1notselected">UAM desactivado porque confia no plugin de sensibilidade Oref1</string>
     <string name="limitingbasalratio">A basal max está limitada a %1$.2f U/h por %2$s</string>
     <string name="pumplimit">limite bomba</string>
     <string name="itmustbepositivevalue">deve ser valor positivo</string>
@@ -952,6 +955,7 @@
     <string name="virtualpump_type">Tipo da Bomba Virtual</string>
     <string name="virtualpump_definition">Definição da Bomba</string>
     <string name="virtualpump_pump_def">Bólus: Passo=%1$s\nBólus Estendido: [Passo=%2$s, Duração=%3$smin -%4$sh] \nBasal: Passo=%5$s\ nTBR: %6$s (por %7$s), Duração=%8$smin-%9$sh\n%10$s</string>
+    <string name="virtualpump_pump_def_extended_note">* Somente valores discretos nos intervalos são suportados como granularidade para basal/bolus na bomba virtual.</string>
     <string name="ns_autobackfill_title">Preenchimentoauto Glicemia</string>
     <string name="wear_wizard_settings">Definições do Assistente Rápido</string>
     <string name="wear_wizard_settings_summary">Resultado cálculos incluídos no Assistente:</string>
@@ -1049,6 +1053,11 @@
     <string name="insulinlimitviolation">Transgressão limite insulina</string>
     <string name="loop_openmode_min_change">Pedido de mudança mínima [%]</string>
     <string name="loop_openmode_min_change_summary">A app mostrará um pedido de alteração apenas se a mudança for superior a este valor. O valor padrão é 20%</string>
+    <string name="pairfirst">Emparelhe a sua bomba com o seu telefone!</string>
+    <string name="profile_total">== ∑  %1$s U</string>
+    <string name="profile_ins_units_per_hout">U/h</string>
+    <string name="profile_carbs_per_unit">g/U</string>
+    <string name="profile_per_unit">/U</string>
     <plurals name="objective_days">
         <item quantity="one">%1$d dia</item>
         <item quantity="other">%1$d dias</item>
